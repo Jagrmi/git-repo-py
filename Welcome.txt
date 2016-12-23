@@ -1,2 +1,3 @@
 print("Welcome;+")
 print('Hello my dear frend;+')
+print('O my cat')
